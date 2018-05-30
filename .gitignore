@@ -1,0 +1,5 @@
+.settings
+.eclipse
+bin/
+.DS_Store
+
